@@ -1,0 +1,9 @@
+User-Agent: *
+
+Disallow: /login
+Disallow: /dashboard
+
+Allow: /en/
+Allow: /nl/
+Allow: /de/
+Allow: /fr/
